@@ -44,9 +44,9 @@ Retail businesses often struggle with:
 
 ## Insights
 
-* identify products nearing expiry within 7 days having high stock  
-* detect dead stock (no sales in last 60 days)  
-* analyze category-wise revenue for last month  
+* Identify products nearing expiry within 7 days having high stock  
+* Detect dead stock (no sales in last 60 days)  
+* Analyze category-wise revenue for last month  
 
 ## How to Run
 
@@ -59,8 +59,8 @@ Retail businesses often struggle with:
 
 ## Execution Environment
 
-* database: oracle 11g express edition  
-* tools: sql developer / sql*plus  
+* Database: oracle 11g express edition  
+* Tools: sql developer / sql*plus  
 
 ## Author
 GORTHI SANTHOSHI
